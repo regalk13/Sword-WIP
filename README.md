@@ -6,7 +6,7 @@ The SWORD Project is the CrossWire Bible Society's free Bible software project. 
 
 ---
 
-This projects aims to use the SWORD C++ API, to learn and document the full SWORD Project and related tools making small projects and aiming to get as complex as the apps you probably already know from: https://www.crosswire.org/applications/ 
+This projects aims to use the SWORD C++ API, to learn and document the full SWORD Project and related tools making small projects and aiming to get as complex as the frontends you probably already know from: https://www.crosswire.org/applications/ 
 
 We will start from the basics.
 
