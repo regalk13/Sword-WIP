@@ -18,12 +18,12 @@ A simple Markdown documentation of the SWORD project and related...
 ## Tools
 
 [main.cpp](https://github.com/regalk13/Sword-WIP/blob/main/main.cpp) - First use, read a SWORD module
-
+```
 ./out KJV "John 8:36"
 John 8:36:
 If the Son therefore shall make you free, ye shall be free indeed.
 ==========================
-
+```
 ---
 
 God bless you
