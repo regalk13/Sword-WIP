@@ -1,4 +1,6 @@
-# What is SWORD
+This is the indrocution documentation for the SWORD project by CrossWire.
+
+## What is SWORD
 
 "SWORD is an Application Programming Interface (API) for CrossWire modules. When referring to SWORD it is customary to use all uppercase. It is sometimes referred to as the SWORD engine."
 
@@ -12,5 +14,5 @@ Internally, it have:
 
 - The actual data files are in certain formats (legacy ones are like GBF, ThML and now OSIS XML) and then are imported/compiled (sometimes compressed) into the module form.
 
-This means a common workflow (for a module creator) The workflow is obtain the source text, convert/markup it, import via SWORD utilities, create the .conf, test in front-ends, optionally submit to CrossWire for inclusion in their repository. And as end user you install this modules using the official repository, local modules or your own target into a community frontend or one made by yourself.
+This means a common workflow (for a module creator) The workflow is obtain the source text, convert/markup it, import via SWORD utilities, create the .conf, test in front-ends, optionally submit to CrossWire for inclusion in their repository. And as end user you install this modules using the official repository, local modules or your own target into a community frontend or made by yourself.
 
