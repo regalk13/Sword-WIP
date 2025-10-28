@@ -12,7 +12,7 @@ We will start from the basics.
 
 ## Documentation
 
-A simple Markdown documentation of the SWORD project and related...
+- [Introduction]()
 
 
 ## Tools
