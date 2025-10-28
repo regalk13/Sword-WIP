@@ -12,7 +12,7 @@ We will start from the basics.
 
 ## Documentation
 
-- [Introduction]()
+- [Introduction](https://github.com/regalk13/Sword-WIP/blob/main/docs/introduction.md)
 
 
 ## Tools
